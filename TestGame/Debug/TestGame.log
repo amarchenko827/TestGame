@@ -1,0 +1,29 @@
+﻿  main.cpp
+f:\vsprojects\c++\testgame\testgame\main.cpp(45): warning C4305: =: усечение из "double" в "float"
+f:\vsprojects\c++\testgame\testgame\main.cpp(56): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+f:\vsprojects\c++\testgame\testgame\main.cpp(62): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+f:\vsprojects\c++\testgame\testgame\main.cpp(78): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+f:\vsprojects\c++\testgame\testgame\main.cpp(79): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+f:\vsprojects\c++\testgame\testgame\main.cpp(84): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+f:\vsprojects\c++\testgame\testgame\main.cpp(86): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+f:\vsprojects\c++\testgame\testgame\main.cpp(116): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+f:\vsprojects\c++\testgame\testgame\main.cpp(132): warning C4305: =: усечение из "double" в "float"
+f:\vsprojects\c++\testgame\testgame\main.cpp(138): warning C4305: =: усечение из "double" в "float"
+f:\vsprojects\c++\testgame\testgame\main.cpp(143): warning C4305: =: усечение из "double" в "float"
+  TestGame.vcxproj -> F:\VSProjects\C++\TestGame\Debug\TestGame.exe
